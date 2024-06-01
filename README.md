@@ -20,22 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Desafio do fisiculturismo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse desafio proposto pela Dio vem para mostrar o interesse pelas tecnologias que são parceiras da área de IA. O bootcamp Nexa fundamentos de IA generativa, é um bootcamp que vem nós atualizar sobre as novidades tecnologicas que estão dominando o mercado, além de ter curta duração para ninguém ter desculpa que não pode participar!!!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+IAs generativas: redes adversárias generativas.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Esse projeto foi feito um fork, pelo git hub da DigitalInnovstionOne e incrementados alguns conteúdos por mim. 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Durante a execução desse projeto será possivel comparar as duas imagens e distinguir qual é a verdadeira e qual é a fake.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Esse desafio vem propor a reflexão sobre o poder das tecnologias com a utilização das IAs generativas. Sobretudo aconselho a pesquisar conteúdos sobre o tema, para que estás possam ser utilizadas com sabedoria e para que, como estudantes e profissionais dessa área, possamos ensinar e mostrar para a sociedade o quais podem ser beneficos, e para fazer da TI um facilitador na vida das pessoas.
 ```
 
 ### Exemplos e Insigths
